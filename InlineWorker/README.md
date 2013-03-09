@@ -31,4 +31,4 @@ InlineWorker( function( e ) {
 }).postMessage( 'msg from window2' );
 ```
 
-[Try it](http://jsfiddle.net/sYqUb/)
+[Try it](http://jsfiddle.net/sYqUb/2/)
